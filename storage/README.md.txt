@@ -1,1 +1,0 @@
-This storage folder is to store input and output data.
