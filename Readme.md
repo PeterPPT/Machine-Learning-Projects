@@ -1,6 +1,9 @@
 * Classification credit card fruad detection Python notebook contains scripts which uses XGBoost to detection credit card fruad.
 * Cox regression remaining useful lifetime prediction Python notbook contains script which uses Kaplen Meier and Hazard value to predict RUL of jet engine.
 * Sepsis prediction Python notebook contains script which uses Recurrent Neural Network to predict Sepsis.
+* Loan_approval_prediction Python notebook contains data analytics scripts which uses XGBoost to predict whether loan applicant will success loan application based on provided input information.
+
+* Data_analytics test folder contains Python scripts for missing data imputation, and FFT based signal preprocessing.
 
 * Library folder contains all require additional processes including preprocess, and feature engineering required by above 3 Python notebook.
 
